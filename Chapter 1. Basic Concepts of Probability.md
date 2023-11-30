@@ -9,6 +9,12 @@
 
 ## Sample Space and Random Event  
 
-The sample space $S$ includes all the events, so it is a certain event.  
-We use the sign $\emptyset$ to define a impossible event.  
+### Random Event  
+The sample space $S$ includes all the events, so it is a **certain event**.  
+We use the sign $\emptyset$ to define an **impossible event**.  
 
+### Relation & Calculation Between Events  
+
+1) If $A \subset B$, and we call B includes A
+   If $A \subset B$ and $B \subset A$, so $A = B$    
+3) 
