@@ -25,5 +25,5 @@ We use the sign $\emptyset$ to define an **impossible event**.
  ### Several Formulas
  1) $A \cap B = B \cap A$; $A \cup B = B \cup A$
  2) $A \cup (B \cup C) = (A \cup B) \cup C$; $A \cap (B \cap C) = (A \cap B) \cap C$
- 3) $A \cup (B \cup C) = (A \cup B) \cup C$
-    
+ 3) $A \cup (B \cap C) = (A \cup B) \cap (A \cup C)$; $A \cap (B \cup C) = (A \cap B) \cup (A \cap C)$
+ 4)   
